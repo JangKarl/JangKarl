@@ -12,7 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JangKarl&show_icons=true&include_all_commits=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangKarl&layout=compact)
+<picture>
+<source
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JangKarl&layout=compact"
+media="(prefers-color-schema: dark)"
+/>
+</picture>
 <!--
 **JangKarl/JangKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangKarl)](https://github.com/JangKarl/github-readme-stats)
 <!--
 **JangKarl/JangKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
